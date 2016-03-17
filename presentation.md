@@ -11,17 +11,9 @@ Reveal.js allows one to create a two dimensional grid of slides. Markdown is use
 
 ---
 
-```
----
-```
-
 Three dashes are used to create a slide break (vertical)
 
 ===
-
-```
-===
-```
 
 Three equals signs are used to create a slide break (horizontal)
 
