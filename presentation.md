@@ -30,5 +30,5 @@ Three equals signs are used to create a slide break (horizontal)
 
 Presentations support Markdown as well as MathJax (Mathematics typesetting).
 
-- (A presentation illustrating Markdown)[https://view.literasee.io/literasee/Basic_Literasee--Markdown/presentation/#/]
-- (A presentation illustrating MathJax)[https://view.literasee.io/literasee/Basic_Literasee_Mathematics/presentation/#/]
+- [A presentation illustrating Markdown](https://view.literasee.io/literasee/Basic_Literasee--Markdown/presentation/#/)
+- [A presentation illustrating MathJax](https://view.literasee.io/literasee/Basic_Literasee_Mathematics/presentation/#/)
